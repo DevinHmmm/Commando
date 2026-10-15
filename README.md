@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Commando</strong> Commando+ is an ongoing project, adding more exciting Features to the Roblox.com website.
+  <strong>Commando+</strong> is an ongoing project, adding more exciting Features to the Roblox.com website.
 </p>
 
 <p align="center">
@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-  <strong>Commando</strong> I guess I kind of copied this layout from RoValra. Sorry :C
+  I guess I kind of copied this layout from RoValra. Sorry :C
 </p>
